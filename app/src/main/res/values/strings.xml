@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="task">Task</string>
+    <string name="done">Done</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="night_mode">Night Mode</string>
+</resources>
